@@ -19,38 +19,25 @@ I'm a passionate developer and solution architect with a mission to create purpo
 
 I specialize in:
 
-- 🏛️ Government Technology (SPSE, SIRUP, e-Procurement)
-- 💡 Digital Empowerment Platforms for MSMEs
-- 📱 Flutter-based Mobile Development
-- 🔒 Secure API Development with Laravel & Sanctum
-- 🧠 AI-enhanced Smart Services
-- 🧩 Modular and Maintainable System Design
+* 🏛️ Government Technology (SPSE, SIRUP, e-Procurement)
+* 💡 Digital Empowerment Platforms for MSMEs
+* 📱 Flutter-based Mobile Development
+* 🔒 Secure API Development with Laravel & Sanctum
+* ⚙️ Frontend Development with React, Inertia.js & TypeScript
+* 🎨 UI Engineering with TailwindCSS & ShadCN UI
+* 🧠 AI-enhanced Smart Services
+* 🧩 Modular and Maintainable System Design
 
 I currently work as a **Technology Expert** at **Bagian Pengadaan Barang dan Jasa Setda Kudus**, leading digital transformation efforts to improve efficiency and transparency. Previously, I developed and managed digital platforms at **ISK News Kudus**, focusing on media content, streaming, and public communication.
 
 ---
 
-## 🚀 Featured Projects
-
-### 📦 Simpang Kudus
-Digital procurement system used across local government offices:
-- Guest Book with QR Verification
-- Monitoring System for Public Tendering
-- Role-Based Access & Real-time Notifications
-- Built using Laravel 12 + Flutter + Sanctum
-
-### 🛍 Gebyok Kudus
-Marketplace & SSO system designed to support Kudus-based MSMEs:
-- Promotes local products via integrated online stores
-- Empowers entrepreneurs with digital tools
-- Bridges public services and community economy
-
----
-
 ## 💼 Tech Stack
 
-### 🖥 Programming & Backend
+### 🖥 Backend Development
+
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/CodeIgniter-E44D26?style=for-the-badge&logo=codeigniter&logoColor=white">
@@ -58,22 +45,27 @@ Marketplace & SSO system designed to support Kudus-based MSMEs:
 </p>
 
 ### 📱 Mobile & Frontend
+
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Inertia.js-5A29E4?style=for-the-badge&logo=inertia&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/ShadCN_UI-121212?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
-### 🔐 Auth & API
+### 🔐 Authentication & API
+
 <p>
   <img src="https://img.shields.io/badge/Sanctum-E53935?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
-### 🤖 Specialization & Tools
+### 🤖 AI & Tools
+
 <p>
   <img src="https://img.shields.io/badge/AI%20Solutions-ffcc00?style=for-the-badge&logo=openai&logoColor=black">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -104,14 +96,14 @@ Marketplace & SSO system designed to support Kudus-based MSMEs:
 
 ## 📫 Contact Me
 
-- 📧 Email: **yogianggoro7@gmail.com**
-- 📸 Instagram: [@yogijowo](https://instagram.com/yogijowo)
+* 📧 Email: **[yogianggoro7@gmail.com](mailto:yogianggoro7@gmail.com)**
+* 📸 Instagram: [@yogijowo](https://instagram.com/yogijowo)
 
 ---
 
 ## ✍️ Personal Quote
 
-> _"Solving real-world problems with clean code, impactful design, and purpose-driven development."_  
+> *"Solving real-world problems with clean code, impactful design, and purpose-driven development."*
 > — Yogi Anggoro
 
 ---
