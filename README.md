@@ -1,113 +1,82 @@
-<h1 align="center">👋 Hi, I'm Yogi Anggoro</h1>
 <p align="center">
-  👨‍💻 Full-Stack Developer · 🧠 AI Specialist · 🇮🇩 Based in Kudus, Indonesia
-</p>
-<p align="center">
-  <strong>Technology Expert at Procurement Division – Setda Kudus</strong><br>
-  <em>Informatics Engineering Graduate – Universitas Muria Kudus</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=250&section=header&text=Yogi%20Anggoro&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yogianggoro&label=Profile%20Views&color=blueviolet&style=flat" alt="profile-views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=818CF8&center=true&vCenter=true&width=500&lines=Senior+Full-Stack+Engineer;Solution+Architect;Flutter+%26+Mobile+Specialist;AI+Implementation+Expert" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/yogi-anggoro-49090916a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yogianggoro7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/yogijowo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🧑‍💼 About Me
+## 💫 About Me
 
-I'm a passionate developer and solution architect with a mission to create purposeful technology for public services, local businesses, and citizens. With over 5 years of hands-on experience, I build robust, user-centric, and scalable applications that make an impact.
+I am a **Visionary Software Engineer** with over 5 years of experience crafting high-performance digital ecosystems. My mission is to bridge the gap between complex business logic and seamless user experiences.
 
-I specialize in:
-
-* 🏛️ Government Technology (SPSE, SIRUP, e-Procurement)
-* 💡 Digital Empowerment Platforms for MSMEs
-* 📱 Flutter-based Mobile Development
-* 🔒 Secure API Development with Laravel & Sanctum
-* ⚙️ Frontend Development with React, Inertia.js & TypeScript
-* 🎨 UI Engineering with TailwindCSS & ShadCN UI
-* 🧠 AI-enhanced Smart Services
-* 🧩 Modular and Maintainable System Design
-
-I currently work as a **Technology Expert** at **Bagian Pengadaan Barang dan Jasa Setda Kudus**, leading digital transformation efforts to improve efficiency and transparency. Previously, I developed and managed digital platforms at **ISK News Kudus**, focusing on media content, streaming, and public communication.
+- 🛠️ **Architecting** robust backends with Laravel & Python.
+- 🎨 **Designing** immersive interfaces with React & TailwindCSS.
+- 📱 **Building** high-performance cross-platform apps with Flutter.
+- 🧠 **Integrating** AI models to automate and optimize workflows.
 
 ---
 
-## 💼 Tech Stack
+## 🚀 Tech Universe
 
-### 🖥 Backend Development
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/CodeIgniter-E44D26?style=for-the-badge&logo=codeigniter&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white">
+### ⚡ Development Core
+<p align="left">
+  <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="45" height="45"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="45" height="45"/></a>
 </p>
 
-### 📱 Mobile & Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Inertia.js-5A29E4?style=for-the-badge&logo=inertia&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/ShadCN_UI-121212?style=for-the-badge&logo=vercel&logoColor=white">
-</p>
-
-### 🔐 Authentication & API
-
-<p>
-  <img src="https://img.shields.io/badge/Sanctum-E53935?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-</p>
-
-### 🤖 AI & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/AI%20Solutions-ffcc00?style=for-the-badge&logo=openai&logoColor=black">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/System%20Design-333333?style=for-the-badge&logo=linuxfoundation&logoColor=white">
-</p>
+### 🛠️ Toolbelt & Infrastructure
+- **Security:** Laravel Sanctum, JWT, OAuth2
+- **State Management:** Redux, Bloc, Provider, Inertia.js
+- **DevOps & Tools:** Docker, Git, Postman, Figma
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Coding Pulse
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogijowo&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogijowo&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogijowo&show_icons=true&theme=radical&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogijowo&theme=radical" height="150" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogijowo&layout=compact&theme=radical" height="130"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogijowo&theme=tokyonight&hide_border=true" width="80%" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophy
-
+## 🏆 Digital Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yogijowo&theme=onedark&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yogijowo&theme=tokyonight&no-frame=true&row=1" />
 </p>
 
 ---
 
-## 📫 Contact Me
+## 💡 Engineering Philosophy
 
-* 📧 Email: **[yogianggoro7@gmail.com](mailto:yogianggoro7@gmail.com)**
-* 📸 Instagram: [@yogijowo](https://instagram.com/yogijowo)
-
----
-
-## ✍️ Personal Quote
-
-> *"Solving real-world problems with clean code, impactful design, and purpose-driven development."*
-> — Yogi Anggoro
+> *"Excellence is not an act, but a habit. I believe in writing code that is not just functional, but poetic, maintainable, and deeply impactful."*
 
 ---
+
+## 🤝 Get In Touch
+
+- 🔭 I’m currently working on **AI-Driven Scalable Platforms**.
+- 🌱 I’m currently learning **Advanced Cloud Architecture & LLM Fine-tuning**.
+- 💬 Ask me about **Laravel, React, or how to build seamless Mobile Apps**.
+- ⚡ Fun fact: I balance high-logic coding with high-creativity UI engineering.
 
 <p align="center">
-  💙 Thank you for visiting! Let's build something meaningful together.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%"/>
 </p>
