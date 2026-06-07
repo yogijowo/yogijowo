@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=250&section=header&text=Yogi%20Anggoro&fontSize=70&animation=fadeIn&fontAlignY=38&fontName=Orbitron" alt="Yogi Anggoro Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1e1b4b&height=180&section=header&text=Yogi%20Anggoro&fontSize=50&fontAlignY=55&fontName=Space+Grotesk&animation=fadeIn" alt="Yogi Anggoro Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Engineer;Solution+Architect;Mobile+%26+AI+Specialist;Enterprise+%26+Government+Systems" alt="Yogi Anggoro Titles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Engineer;Solution+Architect;Mobile+%26+AI+Specialist;Enterprise+%26+Government+Systems" alt="Yogi Anggoro Titles" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/yogi-anggoro-49090916a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-1E293B?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:yogianggoro7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yogianggoro7%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Email-1E293B?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email Badge" />
   </a>
   <a href="https://instagram.com/yogijowo" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40yogijowo-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge" />
+    <img src="https://img.shields.io/badge/Instagram-1E293B?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram Badge" />
   </a>
 </p>
 
@@ -28,13 +28,11 @@
 
 ## 👨‍💻 Professional Summary
 
-A **Senior Software Engineer & Solution Architect** with extensive experience architecting and delivering **enterprise-grade and government-scale digital platforms**. 
+A **Senior Software Engineer & Solution Architect** specializing in the design and delivery of secure, highly scalable, and integrated **enterprise-grade & government-scale digital platforms**.
 
-Specializing in building **secure, highly scalable, and deeply integrated software systems** that streamline complex organizational workflows into efficient, high-performance digital ecosystems.
-
-* 🏗️ **System Architecture & Integration** – Designing resilient, high-availability distributed systems.
-* 🏛️ **Government Digital Transformation** – Building secure, multi-role portals complying with strict regulatory frameworks.
-* 🤖 **AI Integration & Automation** – Deploying local LLMs, AI agents, and real-time automation pipelines.
+* 🏗️ **System Architecture** — Designing high-availability microservices and distributed frameworks.
+* 🏛️ **Digital Transformation** — Engineering secure multi-tenant portals for public and private sectors.
+* 🤖 **AI & Automation** — Deploying local LLMs and intent-parsing AI agents into operational workflows.
 
 ---
 
@@ -79,27 +77,19 @@ Specializing in building **secure, highly scalable, and deeply integrated softwa
 
 ---
 
-## 🧩 Selected Project Portfolio
+## 🧩 Featured Engineering Portfolio
 
 A curated selection of high-impact engineering accomplishments:
 
-* **🏛️ Government E-Procurement SSO**
-  * *Lead Architect & Lead Backend Engineer* — Architected a centralized **Single Sign-On (SSO)** framework and custom **OAuth2 authentication server** to secure and integrate multi-tenant municipal systems.
-  * **Laravel • OAuth2 • MySQL • REST APIs**
-
-* **🛒 Gebyok Kudus (SSO E-Commerce Marketplace)**
-  * *Full-Stack Developer* — Built an SSO-integrated B2G marketplace system matching local vendors with government procurement demands.
-  * **Laravel • React • MySQL • API Integration**
-
-* **🤖 AI-Powered Automation & Assistant System**
-  * *AI Research Engineer* — Engineered a conversational assistant using local LLMs (**LLaMA-3 / Ollama**) for intent-parsing and automated command execution.
-  * **Python • Flask • Local LLMs • WebSockets**
-
-* **📦 Additional Scale Projects**
-  * **OpenISB** (National ISB Data Integration Platform) • **Simpang Kudus** (Procurement Mobile App) • **Zameera** (Pre-Order & Distribution Logistics System) • **Enterprise Payroll** (HR Rules Engine).
+| System / Project | Role | Brief Impact & Tech Stack |
+| :--- | :--- | :--- |
+| **🏛️ Gov SSO & Procurement Ecosystem** | Lead Architect | Designed centralized OAuth2 authentication and multi-agency API gateway. <br/> `Laravel` • `OAuth2` • `MySQL` • `REST APIs` |
+| **🛒 Gebyok Kudus (SSO Marketplace)** | Full-Stack Developer | Built an SSO-integrated B2G marketplace matching local vendors with government demands. <br/> `Laravel` • `React` • `MySQL` • `API Integration` |
+| **🤖 AI-Powered Automation System** | AI Engineer | Deployed local LLM conversational assistant (LLaMA-3) for real-time automation. <br/> `Python` • `Flask` • `Local LLMs` • `WebSockets` |
+| **📦 Other Scaled Architectures** | Architect / Developer | **OpenISB** (National Data Middleware) • **Simpang Kudus** (Flutter Procurement App) • **Zameera** (Distribution Logistics) • **Enterprise Payroll** (HR Engine). |
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1e1b4b&height=80&section=footer" width="100%" alt="Footer Banner" />
 </p>
