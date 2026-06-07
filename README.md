@@ -42,11 +42,30 @@ A **Senior Software Engineer & Solution Architect** specializing in the design a
     <td width="55%" valign="top" style="border: none; padding-right: 15px;">
       <h3>🛠️ Core Technical Expertise</h3>
       <ul>
-        <li><strong>Backend:</strong> Laravel • Python • REST APIs • Microservices</li>
-        <li><strong>Frontend:</strong> React.js • TypeScript • TailwindCSS • Inertia.js</li>
-        <li><strong>Mobile:</strong> Flutter (Cross-platform Dart apps)</li>
-        <li><strong>Security:</strong> OAuth2 • JWT • Laravel Sanctum • SSO Architectures</li>
-        <li><strong>DevOps & Infra:</strong> Docker • Redis • Queue Systems • API Gateways</li>
+        <li>
+          <strong>Backend:</strong><br/>
+          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+        </li>
+        <li style="margin-top: 8px;">
+          <strong>Frontend:</strong><br/>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+          <img src="https://img.shields.io/badge/Inertia.js-9553E8?style=flat-square&logo=inertia&logoColor=white" alt="Inertia.js" />
+        </li>
+        <li style="margin-top: 8px;">
+          <strong>Mobile:</strong><br/>
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+        </li>
+        <li style="margin-top: 8px;">
+          <strong>DevOps & Security:</strong><br/>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+          <img src="https://img.shields.io/badge/OAuth2-3F51B5?style=flat-square&logo=keycloak&logoColor=white" alt="OAuth2" />
+          <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT" />
+        </li>
       </ul>
       <h3>🏆 Core Strengths & Principles</h3>
       <ul>
