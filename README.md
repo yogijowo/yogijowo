@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=250&section=header&text=Yogi%20Anggoro&fontSize=70&animation=fadeIn&fontAlignY=38" alt="Yogi Anggoro Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=250&section=header&text=Yogi%20Anggoro&fontSize=70&animation=fadeIn&fontAlignY=38&fontName=Orbitron" alt="Yogi Anggoro Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Engineer;Solution+Architect;Mobile+%26+AI+Specialist;Enterprise+%26+Government+Systems" alt="Yogi Anggoro Titles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Engineer;Solution+Architect;Mobile+%26+AI+Specialist;Enterprise+%26+Government+Systems" alt="Yogi Anggoro Titles" />
 </p>
 
 <p align="center">
@@ -15,6 +15,12 @@
   </a>
   <a href="https://instagram.com/yogijowo" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%40yogijowo-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://oosmetrics.com/repo/yogijowo/laravel12-react-starterkit" target="_blank">
+    <img src="https://api.oosmetrics.com/api/v1/badge/achievement/7fc64e8e-7c8c-4c6f-9546-d793ccbc9772.svg" alt="oosmetrics" />
   </a>
 </p>
 
@@ -73,82 +79,24 @@ Specializing in building **secure, highly scalable, and deeply integrated softwa
 
 ---
 
-## 🧩 Featured Project Portfolio
+## 🧩 Selected Project Portfolio
 
-### 🏛️ Government SSO & Procurement Ecosystem
-* **Organization:** Procurement and Logistics Department (PBJ)
-* **Role:** Lead Backend Engineer & System Architect
-* **Key Accomplishments:**
-  * Architected a centralized **Single Sign-On (SSO)** framework to authenticate multi-tenant government applications securely.
-  * Engineered a custom **OAuth2 authentication server** managing thousands of active secure sessions.
-  * Designed a highly available **API Gateway** supporting multi-role & multi-agency data sharing.
-* **Tech Stack:** Laravel, OAuth2, MySQL, REST APIs
+A curated selection of high-impact engineering accomplishments:
 
----
+* **🏛️ Government E-Procurement SSO**
+  * *Lead Architect & Lead Backend Engineer* — Architected a centralized **Single Sign-On (SSO)** framework and custom **OAuth2 authentication server** to secure and integrate multi-tenant municipal systems.
+  * **Laravel • OAuth2 • MySQL • REST APIs**
 
-### 🛒 Gebyok Kudus – SSO E-Procurement Marketplace
-* **Organization:** Kudus Regency Government
-* **Role:** Full-Stack Engineer
-* **Key Accomplishments:**
-  * Designed and built an SSO-integrated e-commerce marketplace empowering local vendors to participate in government procurement.
-  * Developed multi-vendor catalog management and transaction workflow pipelines.
-  * Integrated third-party government services and unified identity management.
-* **Tech Stack:** Laravel, React, MySQL, API Integration
+* **🛒 Gebyok Kudus (SSO E-Commerce Marketplace)**
+  * *Full-Stack Developer* — Built an SSO-integrated B2G marketplace system matching local vendors with government procurement demands.
+  * **Laravel • React • MySQL • API Integration**
 
----
+* **🤖 AI-Powered Automation & Assistant System**
+  * *AI Research Engineer* — Engineered a conversational assistant using local LLMs (**LLaMA-3 / Ollama**) for intent-parsing and automated command execution.
+  * **Python • Flask • Local LLMs • WebSockets**
 
-### 📦 Zameera – Pre-Order & Distribution Logistics System
-* **Client:** Zameera (Private Enterprise)
-* **Role:** System Architect & Lead Developer
-* **Key Accomplishments:**
-  * Engineered an end-to-end Pre-Order management system tracking agent allocations and warehouse inventory levels.
-  * Built real-time dashboard analytics tracking distributor networks and multi-level agent sales performance.
-  * Automated invoice and logistics reports, eliminating manual data-entry errors.
-* **Tech Stack:** Laravel, MySQL
-
----
-
-### 🌐 OpenISB – National ISB Data Integration Platform
-* **Organization:** National Community / Public Sector Initiative
-* **Role:** System Architect
-* **Key Accomplishments:**
-  * Designed and spearheaded the architecture of a national-scale middleware platform for ISB data ingestion.
-  * Implemented multi-region data isolation boundaries ensuring administrative isolation for local authorities.
-  * Engineered background queue systems to handle bulk data reconciliation and synchronization.
-* **Tech Stack:** Laravel, API Gateway, Redis Queue, MySQL
-
----
-
-### 📱 Simpang Kudus – Procurement Mobile Application
-* **Organization:** Kudus Regency Government
-* **Role:** Mobile Developer
-* **Key Accomplishments:**
-  * Developed a secure cross-platform Flutter application for procurement reporting and tracking.
-  * Implemented secure token authentication utilizing Laravel Sanctum.
-  * Optimized application responsiveness, caching mechanisms, and localized state persistence.
-* **Tech Stack:** Flutter, Laravel REST APIs
-
----
-
-### 🤖 AI-Powered Automation & Assistant System
-* **Initiative:** Internal R&D Initiative
-* **Role:** AI Research Engineer
-* **Key Accomplishments:**
-  * Deployed a conversational assistant leveraging local LLMs (Ollama / LLaMA-3).
-  * Created intent-parsing pipelines transforming natural language into structured API automation commands.
-  * Implemented event-driven WebSocket systems for real-time interactions.
-* **Tech Stack:** Python, Flask, Local LLMs, WebSockets
-
----
-
-### 🏢 Enterprise Payroll & HR Portal
-* **Client:** Private Manufacturing Corporation
-* **Role:** Full-Stack Developer
-* **Key Accomplishments:**
-  * Engineered a flexible payroll rules engine computing complex overtime, allowances, and tax tables.
-  * Designed audit logs and ledger reporting modules compliant with corporate compliance protocols.
-  * Modeled relational database schemas optimized for heavy write operations.
-* **Tech Stack:** Laravel, MySQL
+* **📦 Additional Scale Projects**
+  * **OpenISB** (National ISB Data Integration Platform) • **Simpang Kudus** (Procurement Mobile App) • **Zameera** (Pre-Order & Distribution Logistics System) • **Enterprise Payroll** (HR Rules Engine).
 
 ---
 
